@@ -1,16 +1,6 @@
 **Primer evaluación entregable de Front-end III para C.T.D.**
 
- - Pueden ver el deploy de la aplicación en:
-   https://nostalgic-wilson-b2a04e.netlify.app/ 
- - Para descargar React    developer tools:   
-   https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
-   
- - Para utilizarlo: Ctrl + Shift + i  => Components:
-![Ubicación de Components](https://github.com/Ivanszs/ctd-frontend3-primer-evaluacion/blob/main/reactComponents.PNG?raw=true)
-
 ¡Hola! Llegó el momento de poner a prueba los conocimientos adquiridos. Esta es la oportunidad para validar tu aprendizaje hasta el momento. Se trata de una evaluación entregable, donde tendrás la posibilidad de resolver el trabajo por cuenta propia y entregarlo antes de la fecha límite.
-
-## Recordá: La fecha límite de entrega es el viernes 10, 23:59 hs Argentina, 21:59 hs Colombia.
 
 **¿Cuáles son los temas que no me pueden faltar?**
 
@@ -26,8 +16,6 @@
     
 -   Ciclo de vida.
     
-
-¿A qué nos referimos con que no te pueden faltar? Bueno la aplicación que queremos que hagas puede realizarse de incontables formas, pero vamos a hacerla demostrando todo lo que fuimos aprendiendo hasta ahora.
 
 **Consigna**
 
@@ -68,11 +56,3 @@ En caso que necesites crear un componente que tenga estados, necesariamente debe
 
 -   Tendrás a disposición un archivo llamado  index.CSS dentro de la carpeta src para dejar la app algo más estética. Recordá asignar className a los distintos elementos que ahí se nombran. Igualmente el CSS no es algo que se evaluará, por lo tanto es completamente opcional.
     
-
-**Entrega**
-
-La app se tiene que entregar en un repositorio de GitHub, mediante un formulario que se te entregará posteriormente.
-
--   Tendrás tiempo hasta el **viernes 10, 23:59 hs Argentina, 21:59 hs Colombia.**
-    
-- **Cualquier modificación en el repositorio de GitHub, posterior al tiempo límite establecido, no será evaluada.**
