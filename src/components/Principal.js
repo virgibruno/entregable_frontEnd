@@ -20,11 +20,13 @@ class Principal extends React.Component{
 
     handleClick = (opcion) =>{
         if (this.state.seleccionPrevia !== ""){
-            this.state.historial.push(this.state.seleccionPrevia)
+            this.setState( prev => ({
+                historial : [...prev.historial, prev.seleccionPrevia]
+            }))
         }
         if(this.state.contador < 5){
-            this.setState ( (state) => ({
-                contador : state.contador + 1,
+            this.setState ( (prev) => ({
+                contador : prev.contador + 1,
                 seleccionPrevia : opcion.toLowerCase(),
             }))
         } else {
